@@ -4,7 +4,7 @@ An automated pull request risk analysis pipeline that evaluates structural risk 
 
 This system transforms raw GitHub activity into actionable engineering intelligence.
 
-🔍 What This Automation Does
+# 🔍 What This Automation Does
 
 Fetches open pull requests from a repository
 → Fetch_Open_PRs.js 
